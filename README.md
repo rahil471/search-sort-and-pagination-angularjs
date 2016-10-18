@@ -7,3 +7,4 @@ Demo : <a href="http://code.ciphertrick.com/demo/search-sort-pagination/">http:/
 
 Complete Tutorial : - <a href="http://code.ciphertrick.com/2015/06/01/search-sort-and-pagination-ngrepeat-angularjs/">http://code.ciphertrick.com/2015/06/01/search-sort-and-pagination-ngrepeat-angularjs/</a>
 
+on (ciphertrick)[https://ciphertrick.com]
